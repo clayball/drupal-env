@@ -4,6 +4,14 @@ Drupal Env
 Manage Drupal environments for testing/code review.
 
 
+Requirements
+------------
+
+drush
+apache
+mysql or sqlite3
+
+
 Tasks
 -----
 
