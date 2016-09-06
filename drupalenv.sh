@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# Clay Wells <cwells at cwells.org>
+#
+# Purpose
+# =======
+#
+# Manage a Drupal environment used for testing and code analysis.
+#
+# I'm creating this to make my life easier. Hopefully others will find this
+# useful.
+
 ##############################################################################
 # Notes
 #
