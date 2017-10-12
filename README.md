@@ -1,6 +1,9 @@
 Drupal Env
 ==========
 
+Note: since using Drupal8, this has become less useful. 
+      I'm considering updating for Drupal8.
+      
 Manage Drupal environments for testing/code review.
 
 
